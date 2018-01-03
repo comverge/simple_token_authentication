@@ -8,6 +8,7 @@ Gem::Specification.new do |s|
   s.name        = "simple_token_authentication"
   s.version     = SimpleTokenAuthentication::VERSION
   s.authors     = ["Gonzalo Bulnes Guilpain"]
+  s.date        = "2018-01-03"
   s.email       = ["gon.bulnes@gmail.com"]
   s.homepage    = "https://github.com/gonzalo-bulnes/simple_token_authentication"
   s.summary     = "Simple (but safe) token authentication for Rails apps or API with Devise."
